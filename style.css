@@ -1,0 +1,30 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    max-width: 680px;
+    margin: 24px auto;
+    line-height: 1.6;
+}
+
+h2 {
+    margin: 0 0 8px;
+}
+
+#status,
+#rekor {
+    font-weight: 600;
+}
+
+#jawaban {
+    width: 100%;
+    padding: .6rem .8rem;
+    font-size: 1rem;
+}
+
+#btnUlang {
+    display: none;
+    margin-top: .5rem;
+}
+
+#hasil {
+    min-height: 1.2rem;
+}
